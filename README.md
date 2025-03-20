@@ -1,3 +1,3 @@
-# movie_recommende_system
+# movie_recommender_system
 
 A content based movie recommender system using cosine similarity
